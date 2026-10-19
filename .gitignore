@@ -3,3 +3,4 @@ __pycache__/
 .venv/
 venv/
 .env
+support_requests.txt
